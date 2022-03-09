@@ -1,0 +1,9 @@
+.dog{
+    text-align: center;
+    color: rgb(226, 40, 40);
+}
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2019/02/12/16/42/fishing-pole-3992669_1280.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
